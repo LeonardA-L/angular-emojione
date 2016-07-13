@@ -1,0 +1,19 @@
+{
+  "name": "angular-emojione",
+  "authors": [
+    "Léonard Allain-Launay <LeonardA-L>"
+  ],
+  "main": "angular-emojione.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.x",
+    "emojione": "*"
+  }
+}
