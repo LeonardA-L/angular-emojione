@@ -1,3 +1,12 @@
+/*
+ * angular-emojione
+ *
+ * Angular directive and filter for easily rendering emojione emojis
+ *
+ * (c) 2016 Léonard Allain-Launay
+ * License: MIT
+ */
+
 (function(angular) {
 /* globals emojione */
 'use strict';
