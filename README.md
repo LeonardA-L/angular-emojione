@@ -9,7 +9,7 @@ Directive and Filter to easily integrate ![emojione](http://emojione.com/) emoji
 Install via bower
 
 ```
-bower install https://github.com/LeonardA-L/angular-emojione/angular-emojione
+bower install angular-emojione
 ```
 
 Add the module as dependency to your app module
